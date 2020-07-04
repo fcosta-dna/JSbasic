@@ -4,7 +4,7 @@ A small project created with JavaScript using Node js and React js.
 
 Project crated for learn Javascript, project for beginners in Javascrip.
 
-Project based in the curse https://rocketseat.com.br/.
+Project based in the free curse https://rocketseat.com.br/.
 
 ## Learned topic:
 
@@ -15,11 +15,12 @@ Project based in the curse https://rocketseat.com.br/.
   * Express
 * React Js
   * Componets
-  * States
+   * States
+   * cicle of life
   * React routes
 * Html
   * Tags
 * CSS
   * flex
   * grid
-  * efects
+  * effects
