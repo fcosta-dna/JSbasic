@@ -10,14 +10,17 @@ Project based in the free curse https://rocketseat.com.br/.
 
 * Node Js
   * Mongoose
+    * CRUD - Create, Read, Update, Delete
   * Axios
-  * CRUD
   * Express
+    * Routes
+    * Requisitions
+    * Middlewares
 * React Js
-  * Componets
-   * States
-   * cicle of life
-  * React routes
+  * Components
+    * States
+    * cycle of life
+  * React route-dom
 * Html
   * Tags
 * CSS
