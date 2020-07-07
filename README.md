@@ -12,9 +12,9 @@ Project based in the free curse https://rocketseat.com.br/.
   * Mongoose
     * CRUD - Create, Read, Update, Delete
   * Axios
+    * Requisitions
   * Express
     * Routes
-    * Requisitions
     * Middlewares
 * React Js
   * Components
